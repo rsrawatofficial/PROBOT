@@ -5,7 +5,7 @@ services:
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/AnkitShakya95/PROBOT
-    branch: main.py
+    branch: main
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
